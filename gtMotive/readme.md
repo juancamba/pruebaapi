@@ -1,4 +1,4 @@
-# Prueba técnica GtMotive
+# Prueba técnica 
 
 Implementar un microservicio que permita gestionar la siguiente funcionalidad:
 Una Empresa de renting. El microservicio debería de permitir realizar las siguientes acciones (a través de llamadas REST):
